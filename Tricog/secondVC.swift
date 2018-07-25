@@ -1,5 +1,5 @@
 //
-//  secondViewController.swift
+//  secondVC.swift
 //  Tricog
 //
 //  Created by Amarnath B on 25/07/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class secondViewController: UIViewController {
+class secondVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
