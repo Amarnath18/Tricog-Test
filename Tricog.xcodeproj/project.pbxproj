@@ -12,6 +12,7 @@
 		252EE33F2108314400D4F2A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 252EE33D2108314400D4F2A0 /* Main.storyboard */; };
 		252EE3412108314500D4F2A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 252EE3402108314500D4F2A0 /* Assets.xcassets */; };
 		252EE3442108314500D4F2A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 252EE3422108314500D4F2A0 /* LaunchScreen.storyboard */; };
+		252EE34C210834D300D4F2A0 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 252EE34B210834D300D4F2A0 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		252EE3402108314500D4F2A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		252EE3432108314500D4F2A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		252EE3452108314500D4F2A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		252EE34B210834D300D4F2A0 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				252EE3392108314400D4F2A0 /* AppDelegate.swift */,
 				252EE33B2108314400D4F2A0 /* ViewController.swift */,
+				252EE34B210834D300D4F2A0 /* secondViewController.swift */,
 				252EE33D2108314400D4F2A0 /* Main.storyboard */,
 				252EE3402108314500D4F2A0 /* Assets.xcassets */,
 				252EE3422108314500D4F2A0 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				252EE33C2108314400D4F2A0 /* ViewController.swift in Sources */,
+				252EE34C210834D300D4F2A0 /* secondViewController.swift in Sources */,
 				252EE33A2108314400D4F2A0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
